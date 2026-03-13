@@ -3,6 +3,11 @@ The process of working on my final project was a rollercoaster of wins and losse
 However, to not bore the reader with the story, I will share the results right away and tell the process of doing the assignment later.
 
 # The Result
+The tutorial used for the creation of the project:
+https://www.youtube.com/embed/PAu-gWs_lD8?si=tx3RlvOOmUWqwnMs
+The code of the project, which was modified for this project:
+https://techtalkies.in/2025/03/24/arduino-dino-game/?i=1
+
 I decided to create a gaming console. It was a strong project, so I put as much effort into it as I could. However, time constraints and low morale still got in the way, as well as, of course, poor planning.
 The console can play only one game: the one that mimics the famous "Google Chrome Dino Game". 
 
