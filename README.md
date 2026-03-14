@@ -24,6 +24,9 @@ I knew an MP3 player is a challenging project, but I did not anticipate the horr
 ## Act III. The Feigning Hope
 First, when I plugged the wires in, I managed to get just a noise, nothing else. I thought it was normal, and I probably made a mistake somewhere; nonetheless, I saw that as progress. But then, I couldn't get a sound for a day or two, then weeks, then months. I failed to make the DFPlayer module work. Even with the help of the teacher, I could not squeeze even a little sound, besides the cracking noise from the module. Despite all connections being correct.
 We considered that maybe the two modules I bought were faulty or broken, so I bought new ones. To my dismay, they broke too. The deadline was coming closer and closer, yet the project was not being done. 
+
+![IMG_2493](https://github.com/user-attachments/assets/98fa0108-ccf5-450a-91d4-bc55e414295f)
+
 ## Act IV. The Change of Plans.
 At this point, I have no time to order new parts; parts for Arduino projects take a particularly long time to arrive, which did not make things better. I felt terrible for backing down, but there was no way to fight it. I decided to cut loses and change my project to something different, that I can build from the starter kit I had. That is when I settled on making a game console for google chrome dino game.
 
