@@ -2,7 +2,7 @@
 The process of working on my final project was a rollercoaster of wins and losses.
 However, to not bore the reader with the story, I will share the results right away and tell the process of doing the assignment later.
 
-# The Result
+# The Abstract
 The tutorial used for the creation of the project:
 https://www.youtube.com/embed/PAu-gWs_lD8?si=tx3RlvOOmUWqwnMs
 The code of the project, which was modified for this project:
@@ -10,7 +10,6 @@ https://techtalkies.in/2025/03/24/arduino-dino-game/?i=1
 
 I decided to create a gaming console. It was a strong project, so I put as much effort into it as I could. However, time constraints and low morale still got in the way, as well as, of course, poor planning.
 The console can play only one game: the one that mimics the famous "Google Chrome Dino Game". 
-
 
 # The Process
 ## Act I. The Idea: 
@@ -22,7 +21,7 @@ I knew an MP3 player is a challenging project, but I did not anticipate the horr
 <img width="6529" height="2888" alt="image" src="https://github.com/user-attachments/assets/41f82c7d-fef0-439e-8800-688c2bc1c08c" />
 
 ## Act III. The Feigning Hope
-First, when I plugged the wires in, I managed to get just a noise, nothing else. I thought it was normal, and I probably made a mistake somewhere; nonetheless, I saw that as progress. But then, I couldn't get a sound for a day or two, then weeks, then months. I failed to make the DFPlayer module work. Even with the help of the teacher, I could not squeeze even a little sound, besides the cracking noise from the module. Despite all connections being correct.
+First, when I plugged the wires in, I managed to get just a noise, nothing else. I thought it was normal, and I probably made a mistake somewhere; nonetheless, I saw that as progress. But then, I couldn't get a sound for a day or two, then weeks, then months. I failed to make the DFPlayer module work. Even with the help of the teacher, I could not even make a little sound, besides the cracking noise from the module. Despite all connections being correct.
 We considered that maybe the two modules I bought were faulty or broken, so I bought new ones. To my dismay, they broke too. The deadline was coming closer and closer, yet the project was not being done. 
 
 ![IMG_2493](https://github.com/user-attachments/assets/98fa0108-ccf5-450a-91d4-bc55e414295f)
@@ -48,6 +47,6 @@ Taking this into account, I decided to use three mini breadboards, and just mini
 ![IMG_2485](https://github.com/user-attachments/assets/b31ce4d2-20d8-450f-97e9-e5531cf19829)
 
 ## Act V. The Conclusion:
-I deliberately put as many wires as I could away from the button, so that the console can be played without any substantial discomfort. The choice of one button, was also intentional, yes, the tutorial uses one button, but initially I wanted to add on/off button, but had to scrap that. If I could I would've got rid of potentiometer, but it was too important for the comfort of the player.
-I also had to settle for open case, the wire bending proved to be a no go option, that damaged the work of the code. The button is just too small. Even the simplest project had unforeseen problems and I had to make the best of the cards I was given,
-Overall, I think it was a great experience (not always pleasant, though), I learned a lot nonetheless. I familiarized myself more with soldering and planning it, 3D printing and Fusion 360. I would like to continue this as a hobby to make more interesting projects, that I can use in everyday life. Hopefully I come back to the idea of creating an MP3 player later.
+I deliberately put as many wires as I could away from the button, so that the console can be played without any substantial discomfort. The choice of one button was also intentional. Yes, the tutorial uses one button, but initially I wanted to add an on/off button, but had to scrap that. If I could I would've got rid of the potentiometer, but it was too important for the comfort of the player.
+I also had to settle for an open case; the wire-bending proved to be a no-go option, which damaged the work of the code. The button is just too small. Even the simplest project had unforeseen problems, and I had to make the best of the cards I was given,
+Overall, I think it was a great experience (not always pleasant, though), and I learned a lot nonetheless. I familiarized myself more with soldering and planning it, 3D printing, and Fusion 360. I would like to continue this as a hobby to make more interesting projects that I can use in everyday life. Hopefully I come back to the idea of creating an MP3 player later.
